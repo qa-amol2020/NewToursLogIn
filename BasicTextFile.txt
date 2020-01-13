@@ -2,3 +2,5 @@ This is Basic Text File Regarding to GitRepo(Local Reposistory)
 1]git is Local Reposistory.
 2]git is Version Control Tool.
 3]git is Local to Every Machine.
+4]git is Local To Every Developer or Tester
+5]git is allocates Local space [memory] in Machine
