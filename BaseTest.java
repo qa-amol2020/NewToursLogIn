@@ -31,3 +31,4 @@ public class BaseTest {
 	}
 
 }
+//This is Base Class of Newtours Login Test Class.
